@@ -1,7 +1,6 @@
 # TCP Packet Builder & Parser
-by,
-Pranav Prashant Shewale 24BCE1226
-Lavanya Vaidya 24BCE5393
+by
+Pranav Prashant Shewale 24BCE1226 & Lavanya Vaidya 24BCE5393
 
 This project provides a set of Python scripts to build, send, receive, and parse TCP packets using the Scapy library. It is designed for cross-platform execution between a Windows sender and a macOS receiver, demonstrating fundamental concepts of network programming and the TCP/IP protocol suite as defined in RFC 9293.
 
